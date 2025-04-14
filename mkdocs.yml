@@ -10,27 +10,32 @@ edit_uri: blob/main/docs/
 
 nav:
   - Home: index.md
-  - Research:
-      - Overview: research/index.md
-      - Publications: research/publications.md
+  - People:
+    - Current members: people/current.md
+    # - Alumni: people/alumni.md
+  - Research: research.md
+  - Publications: publications.md
+  - Opportunities: opportunities.md
 
 
 theme:
   name: "material"
   logo: assets/crest_white.png
   favicon: assets/crest_white.png
+  font:
+    text: Lato
   icon:
     repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
+      primary: deep purple
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: purple
+      primary: deep purple
       toggle:
         icon: material/weather-night
         name: Switch to light mode
