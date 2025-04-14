@@ -1,0 +1,67 @@
+site_name: Szczypiński Research Group
+site_description: "Szczypiński Research Group at Durham University"
+site_author: "Filip T. Szczypiński"
+site_url: "https://szczypinski-group.github.io"
+repo_url: "https://github.com/szczypinski-group"
+repo_name: "szczypinski-group"
+site_dir: "site"
+copyright: Copyright &copy; 2025 Szczypiński Research Group
+edit_uri: blob/main/docs/
+
+nav:
+  - Home: index.md
+  - Research:
+      - Overview: research/index.md
+      - Publications: research/publications.md
+
+
+theme:
+  name: "material"
+  logo: assets/crest_white.png
+  favicon: assets/crest_white.png
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.highlight
+    - search.suggest
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/fiszczyp.bsky.social
