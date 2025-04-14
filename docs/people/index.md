@@ -8,7 +8,7 @@ PhD with Chris Hunter (Cambridge). Postdoc with Kim Jelfs (Imperial) and Andy Co
 
 ## PhD Students
 
-### A. N. Other
+### [A. N. Other](current/other-a-n.md)
 *PhD Student 2025 – now*
 
 Loves hikes and good food.

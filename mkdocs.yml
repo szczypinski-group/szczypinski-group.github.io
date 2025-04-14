@@ -1,9 +1,12 @@
 site_name: Szczypiński Research Group
-site_description: "Szczypiński Research Group at Durham University"
+site_description: >-
+  The Szczypiński Research Group at Durham University, focused on data-driven
+  discovery in supramolecular chemistry by combining modelling and automation
+  in the chemical sciences.
 site_author: "Filip T. Szczypiński"
 site_url: "https://szczypinski-group.github.io"
-repo_url: "https://github.com/szczypinski-group"
-repo_name: "szczypinski-group"
+# repo_url: "https://github.com/szczypinski-group"
+# repo_name: "szczypinski-group"
 site_dir: "site"
 copyright: Copyright &copy; 2025 Szczypiński Research Group
 edit_uri: blob/main/docs/
@@ -11,17 +14,19 @@ edit_uri: blob/main/docs/
 nav:
   - Home: index.md
   - People:
-    - Current members: people/current.md
-    # - Alumni: people/alumni.md
+    - Current members: people/index.md
+    - Alumni: people/alumni.md
   - Research: research.md
   - Publications: publications.md
   - Opportunities: opportunities.md
 
+extra_css:
+  - assets/extra.css
 
 theme:
   name: "material"
-  logo: assets/crest_white.png
-  favicon: assets/crest_white.png
+  logo: assets/crest-white.svg
+  favicon: assets/crest-white.svg
   font:
     text: Lato
   icon:
@@ -29,13 +34,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -45,15 +52,17 @@ theme:
     - content.code.annotate
     - content.code.copy
     - content.tooltips
-    - navigation.footer
-    - navigation.indexes
+    # - navigation.footer
+    # - navigation.indexes
     - navigation.sections
     - navigation.top
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.tracking
     - search.highlight
     - search.suggest
     - toc.follow
+    - toc.integrate
 
 plugins:
   - search
@@ -68,5 +77,15 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/szczypinski-group
+      name: Szczypiński Group on GitHub
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/fiszczyp.bsky.social
+      name: Filip on Bluesky
+    - icon: fontawesome/solid/globe
+      link: https://durham.ac.uk/staff/filip-t-szczypinski/
+      name: Filip's Durham profile
+    - icon: material/email-multiple
+      link: mailto:filip.t.szczypinski@durham.ac.uk
+      name: email Filip

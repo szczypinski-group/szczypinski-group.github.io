@@ -1,0 +1,13 @@
+:root>* {
+    --md-primary-fg-color: #68256D;
+    --md-primary-fg-color--light: #9d4da2;
+    --md-primary-fg-color--dark: #441347;
+    --md-accent-fg-color: #9d4da2;
+    --md-accent-fg-color--transparent: hsla(#{hex2hsl(#9d4da2)}, 0.1);
+}
+
+[data-md-color-scheme="slate"] {
+    --md-typeset-a-color: #a478a7;
+    --md-accent-fg-color: #a478a7;
+    --md-accent-fg-color--transparent: hsla(#{hex2hsl(#a478a7)}, 0.1);
+}
