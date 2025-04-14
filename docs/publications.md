@@ -1,4 +1,4 @@
-# Publications from the group
+# Peer-reviewed journal articles
 
 ## 2024
 
