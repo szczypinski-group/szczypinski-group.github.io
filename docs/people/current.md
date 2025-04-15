@@ -1,5 +1,6 @@
 # Current group members
 
+<img src="../assets/FS.jpg" alt="Filip Szczypiński" class="member-photo circle">
 ## Dr Filip T. Szczypiński
 *Royal Society University Research Fellow (2025 – now)*  <br />
 *Assistant Professor of Chemistry Automation (proleptic)*
@@ -10,9 +11,11 @@ Filip's research interests combine laboratory automation, high-throughput experi
 His main focus is on bridging computational design with experimental practicality in supramolecular and physical organic chemistry.
 He has contributed to the development of autonomous robotic platforms for exploratory chemical synthesis, moving beyond reaction optimisation to the discovery of unknown molecules.
 
-Outside chemistry, Filip enjoys travelling, cooking, and wine. He has been seen organising tasting sessions, delivering talks on wine chemistry, and competing in blind wine tasting around the world.
+Outside chemistry, Filip enjoys travelling, food (eating, cooking, growing), and wine.
+He has been seen organising tasting sessions, delivering talks on wine chemistry, and competing in blind wine tasting around the world.
 
 ## PhD Students
 
+<img src="../assets/smiley.jpg" alt="Filip Szczypiński" class="member-photo circle">
 ### This Could Be You
-*PhD Student (2025 – now)*
+*PhD Student (soon – now)*
