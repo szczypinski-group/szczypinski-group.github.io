@@ -19,9 +19,11 @@ Some fellowships opportunities are collated here but the landscape is constantly
 ## PhD studentships
 
 Externally-funded PhD positions will be advertised online.
-There are also other funding sources: [get in touch](mailto:filip.t.szczypinski@durham.ac.uk) with Filip to discuss the available options.
+There might are also exist other funding sources: [get in touch](mailto:filip.t.szczypinski@durham.ac.uk) with Filip to discuss the available options.
 
 ## Undergraduate summer internships
 
-There is a limited number of paid undergraduate research opportunity programmes for summer experience.
+There is a limited number of paid undergraduate research opportunity programmes for summer studentships.
 Please [get in touch](mailto:filip.t.szczypinski@durham.ac.uk) substantially ahead of the deadlines to draft the best application possible.
+
+- [RSC Undergraduate Research Bursary](https://www.rsc.org/prizes-funding/funding/find-funding/undergraduate-research-bursaries/)
