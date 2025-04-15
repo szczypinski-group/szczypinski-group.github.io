@@ -1,6 +1,6 @@
 # Current group members
 
-<img src="../assets/FS.jpg" alt="Filip Szczypiński" class="member-photo circle">
+<img src="assets/FS.jpg" alt="Filip Szczypiński" class="member-photo circle">
 ## Dr Filip T. Szczypiński
 *Royal Society University Research Fellow (2025 – now)*  <br />
 *Assistant Professor of Chemistry Automation (proleptic)*
@@ -19,6 +19,6 @@ He has been seen organising tasting sessions, giving talks on wine chemistry, an
 
 ## PhD Students
 
-<img src="../assets/smiley.jpg" alt="Filip Szczypiński" class="member-photo circle">
+<img src="assets/smiley.jpg" alt="Filip Szczypiński" class="member-photo circle">
 ### This Could Be You
 *PhD Student (soon – now)*
