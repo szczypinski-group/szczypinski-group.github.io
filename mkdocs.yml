@@ -14,8 +14,8 @@ edit_uri: blob/main/docs/
 nav:
   - Home: index.md
   - People:
-    - Current members: people/index.md
-    - Alumni: people/alumni.md
+    - Current members: people/current.md
+    # - Alumni: people/alumni.md
   - Research: research.md
   - Publications: publications.md
   - Opportunities: opportunities.md
