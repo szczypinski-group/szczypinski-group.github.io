@@ -7,18 +7,24 @@ hide:
 
 ### Using automation, computation, and data to shift supramolecular chemistry **from discovery to design**.
 
-We are a research group at [Durham University](https://www.durham.ac.uk/departments/academic/chemistry/) focused on the intersection of chemistry automation, supramolecular chemistry, and data-driven design.
-We develop tools and workflows that bridge computational modelling with experimental implementation to accelerate the development of functional molecules and materials.
+We are a young research group at [Durham University](https://www.durham.ac.uk/departments/academic/chemistry/) working at the interface of **supramolecular chemistry**, **automation**, and **data-driven molecular design**.
+Our mission is to bridge **computational modelling** and **robotic experimentation** to accelerate the creation of functional molecular systems — from molecular cages and receptors to responsive materials and catalysts.
 
 !!! tip "From Molecular Design to Real-World Impact 🔬"
-    Our lab designs smart molecules that mimic nature’s ability to recognise, react, and adapt.
-    Using computers, automation, and a data-first mindset, we’re creating new molecular systems that one day can remove pollutants, guide reactions, and tackle some of society’s most pressing chemical problems.
+    Inspired by nature’s precision, we design synthetic molecules that can **recognise**, **react**, and **adapt**.
+    Using computers, laboratory automation, and a data-first approach, we aim to solve pressing challenges in areas such as **pollution control**, **chemical sensing**, and **catalysis**.
 
-We take inspiration from the *elegant complexity of natural systems*: like enzymes, which bind specific molecules and steer chemical reactions with exceptional precision.
-Our research explores how to recreate these kinds of functions using synthetic molecular structures.
-We combine *computational modelling* with *automated synthesis* and high-throughput experiments, allowing us to rapidly generate accurate and reliable data that feeds back into our models.
-This closed-loop approach is transforming molecular discovery into a more *predictive and scalable process*, helping us *refine our understanding* and guide future designs.
-This approach will allow us to design *functional supramolecular systems* from scratch – such as molecular cages, receptors, and catalysts – with potential applications in sensing, drug delivery, clean separations, and more.
+
+We take inspiration from the **elegant complexity of biological systems** — such as enzymes that selectively bind molecules and steer reactions.
+Our work explores how to recreate these behaviours using **designed supramolecular systems**.
+
+We combine:
+
+- **Computational modelling** to predict molecular properties and interactions
+- **Automated synthesis and high-throughput experimentation** to generate reliable data at scale
+- **Closed-loop workflows** that continuously refine design through experimental feedback
+
+This integrated approach transforms supramolecular chemistry from a trial-and-error process into a **predictive, modern, and digital field**, helping us *refine our understanding* of the underlying chemical processes.
 
 <br />
 
