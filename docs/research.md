@@ -5,9 +5,6 @@ Our aim is to build **predictive, data-rich workflows** that allow us to design,
 We focus on **experimentally accessible targets** – systems that can be synthesised and studied using automated platforms – and use **computation and data** to drive discovery.
 We are interested in both *function* (molecular recognition, catalysis) and *process* (how to design, discover, and understand complex chemical behaviour), across three core research themes.
 
-
-Our research revolves around three interlinked areas:
-
 ## Automation and high-throughput experimentation
 
 A core strength of the group is the integration of **automation and HTE** into supramolecular and physical organic chemistry.
