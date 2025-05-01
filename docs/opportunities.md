@@ -1,5 +1,15 @@
 # Opportunities
 
+We welcome applicants with backgrounds in:
+
+- supramolecular chemistry
+- physical organic chemistry
+- computational or data-driven chemistry
+- robotic or high-throughput automation
+- coding and artificial intelligence
+
+There is room for **experimentalists, theorists, and hybrid researchers** – and we are especially keen to support cross-disciplinary training. If you’re interested, please [get in touch](mailto:filip.t.szczypinski@durham.ac.uk).
+
 ## Postdoctoral fellowships
 
 Grant-funded postdoctoral fellowships will be advertised online when available.
