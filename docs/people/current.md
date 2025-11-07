@@ -7,7 +7,7 @@
 ![Filip Szczypiński](../assets/people/FS.jpg){ .member-photo }
 ### Dr Filip Szczypiński [:fontawesome-brands-orcid:](https://orcid.org/0000-0003-3174-8532) [:fontawesome-solid-graduation-cap:](https://scholar.google.co.uk/citations?user=DJLqVIEAAAAJ)
 
-*Royal Society University Research Fellow (2025 – now)*  <br />
+*Royal Society University Research Fellow (2025 - now)*  <br />
 *Assistant Professor of Chemistry Automation (proleptic)*
 
 Filip Szczypiński is a Royal Society University Research Fellow and Assistant Professor of Chemistry Automation at Durham University, which he joined in 2025.
@@ -23,26 +23,48 @@ Outside the lab, Filip enjoys travelling, food (eating, cooking, growing), and w
 He has been seen organising tasting sessions, giving talks on wine chemistry, and competing in blind wine tasting around the world.
 </div>
 
-## Masters students
-
-<div class="member-card" markdown>
-
-![Guiling Wei](../assets/people/GW.jpg){ .member-photo }
-
-### Guiling Wei
-*Master of Data Science Student (2025)*
-
-Guiling completed her undergraduate studies at Tianjin Foreign Studies University and previously worked in the manufacturing industry. She's interested in machine learning, as well as text mining, web scraping, and data visualization, especially in the context of real-world applications of predictive modelling and data-driven research. She has joined the group in 2025 for her data science research project, in which she is investigating new digital representations of molecules that are suitable for predictive machine learning applications.
-</div>
-
 ## PhD students
 
 <div class="member-card" markdown>
 
-![Smiley Face](../assets/people/smiley.jpg){ .member-photo }
+![Tom Richards](../assets/people/TR.jpg){ .member-photo }
 
-### This Could Be You
-*PhD Student (now – soon)*
+### Tom Richards
 
-Get in touch if you are excited about data-driven discovery in chemistry!
+*Master of Chemistry (2025)*
+
+Tom joined the Szczypiński Group after completing his MChem degree at the University of Liverpool, where his Master’s research focused on the design of heterogeneous photocatalysts. He gained industrial experience at AstraZeneca within the Oncology Chemistry team, where he developed workflows for late-stage functionalisation. Tom also undertook an international research internship in the Chavasiri Group at Chulalongkorn University, Bangkok, where he explored natural product chemistry.
+
+His research interests include organic synthesis, chemical automation, and supramolecular chemistry. Outside the lab, Tom enjoys kickboxing, travelling, and socialising with friends.
+
+</div>
+
+<div class="member-card" markdown>
+
+![Pierre-Loius Valero](../assets/people/PLV.jpg){ .member-photo }
+
+### Pierre-Louis Valero
+
+*Master of Chemistry (2024)*  <br />
+*Master of Science in Computer Science (2025)*
+
+Pierre-Louis completed both his Chemistry and Computer Science degrees at Newcastle University. His master thesis in Chemistry revolved around a reaction-based design workflow for NLRP3 inhibitors to ensure computationally generated molecules were synthetically feasible. His thesis in computer science revolved around the automation of NMR spectra interpretation using pretrained BERT models to characterise molecules robustly. Both research projects directed him towards automation chemistry and the optimisation of chemical processes, and eventually to this group.
+
+His research interests lie in automation of chemical processes (robots!) as well as automation of data analysis, and more precisely deconvolution of complex spectra with overlapping signals to characterise ratios of different mixtures or unknown products. In parallel to his chemistry degree, Pierre worked at Nanovery part-time for 2 years as an intern, a start-up focused on the development of Nucleic Acid Nanorobots. Outside of working, Pierre enjoy powerlifting, armwrestling, hiking and various obscure French spirits.
+
+</div>
+
+
+## Masters students
+
+<div class="member-card" markdown>
+
+![Michael Heron](../assets/people/MH.jpg){ .member-photo }
+
+### Michael Heron
+
+Michael Heron is a fourth-year MChem student at Durham University, currently conducting research in the Szczypiński group. His project focuses on high-throughput dynamic covalent chemistry, developing combinatorial imine libraries for bowl-shaped receptors. Previously, Michael completed a summer internship in Dr Keith Andrews’ group, funded by an RSC Undergraduate Research Bursary, where he synthesized novel functionalised triptycenes and applied DFT methods to estimate their pKa values.
+
+In his spare time he enjoys long distance running, weightlifting, and making different variations of overnight oats.
+
 </div>

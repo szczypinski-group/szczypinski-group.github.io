@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2025 Szczypiński Research Group
 nav:
   - Home: index.md
   - People: people/current.md
-    # - Current members: people/current.md
+    # - Current members:
     # - Alumni: people/alumni.md
   - Research: research.md
   - Publications: publications.md
