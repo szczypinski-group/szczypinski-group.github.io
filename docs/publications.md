@@ -1,5 +1,9 @@
 # Peer-reviewed journal articles
 
+## 2026
+
+W. Treyde, A. Kwiatkowski, J. Achterberg, D. Akarca, M. Buttenschoen, R. Byrne, K. Didi, K. Kordova, J. Lála, J. Langford, A. M. Mroz, P. Radmard, F. T. Szczypiński, E. Sevenster, I. Van den Bossche, M. Wójcik, [Organizing across disciplines to tackle shared computational challenges](https://doi.org/10.1016/j.patter.2026.101518), *Patterns*, 2026, **7**, 101518.
+
 ## 2024
 
 T. Dai, S. Vijayakrishnan, F. T. Szczypiński, J.-F. Ayme, E. Simaei, T. Fellowes, R. Clowes, L. Kotopanov, C. E. Shields, Z. Zhou, J. W. Ward and A. I. Cooper, [Autonomous mobile robots for exploratory synthetic chemistry](https://doi.org/10.1038/s41586-024-08173-7), *Nature*, 2024, **635**, 890–897.
