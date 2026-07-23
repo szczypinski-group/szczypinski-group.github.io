@@ -54,17 +54,14 @@ His research interests lie in automation of chemical processes (robots!) as well
 
 </div>
 
-
-## Masters students
+## Visiting students
 
 <div class="member-card" markdown>
 
-![Michael Heron](../assets/people/MH.jpg){ .member-photo }
+![Ryan Thorpe](../assets/people/RT.jpg){ .member-photo }
 
-### Michael Heron
+Ryan Thorpe is an incoming 4th-year MChem student at Durham University. Currently, he is conducting research in the Szczypiński group as a summer placement student, funded by The Royal Society. His project focuses on automating the synthesis and analysis of chemical receptors using high-throughput and machine-learning techniques to accelerate chemical discovery.
 
-Michael Heron is a fourth-year MChem student at Durham University, currently conducting research in the Szczypiński group. His project focuses on high-throughput dynamic covalent chemistry, developing combinatorial imine libraries for bowl-shaped receptors. Previously, Michael completed a summer internship in Dr Keith Andrews’ group, funded by an RSC Undergraduate Research Bursary, where he synthesized novel functionalised triptycenes and applied DFT methods to estimate their pKa values.
-
-In his spare time he enjoys long distance running, weightlifting, and making different variations of overnight oats.
+In his spare time, he enjoys playing badminton, going on runs or walks in nature, and weightlifting.
 
 </div>
