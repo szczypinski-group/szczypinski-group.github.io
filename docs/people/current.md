@@ -60,8 +60,18 @@ His research interests lie in automation of chemical processes (robots!) as well
 
 ![Ryan Thorpe](../assets/people/RT.jpg){ .member-photo }
 
-Ryan Thorpe is an incoming 4th-year MChem student at Durham University. Currently, he is conducting research in the Szczypiński group as a summer placement student, funded by The Royal Society. His project focuses on automating the synthesis and analysis of chemical receptors using high-throughput and machine-learning techniques to accelerate chemical discovery.
+### Ryan Thorpe
 
-In his spare time, he enjoys playing badminton, going on runs or walks in nature, and weightlifting.
+Ryan Thorpe is an incoming 4th-year MChem student at Durham University. Currently, he is conducting research in the Szczypiński group as a summer placement student, funded by The Royal Society. His project focuses on automating the synthesis and analysis of chemical receptors using high-throughput and machine-learning techniques to accelerate chemical discovery. In his spare time, he enjoys playing badminton, going on runs or walks in nature, and weightlifting.
+
+</div>
+
+<div class="member-card" markdown>
+
+![Lu Wang](../assets/people/LW.png){ .member-photo }
+
+### Lu Wang
+
+Lu Wang is a visiting undergraduate student from The Hong Kong Polytechnic University, currently undertaking a research project in the Szczypiński group. Her project focuses on developing fluorescent sensor arrays based on boronic acid-functionalised fluorophores for the recognition and classification of flavonoids and other polyphenolic compounds, starting with the discrimination of flavonoids in red wine. In her free time, she enjoys playing mahjong, listening to rap music, watching TV shows, and video gaming.
 
 </div>
