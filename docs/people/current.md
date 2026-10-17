@@ -54,6 +54,18 @@ His research interests lie in automation of chemical processes (robots!) as well
 
 </div>
 
+<div class="member-card" markdown>
+
+![Ethan Denis](../assets/people/EJD.jpg){ .member-photo }
+
+### Ethan Denis
+
+*Master of Chemistry (2026)*
+
+Ethan became a member of the Szczypiński group in October 2026, after graduating with an MChem degree from Durham University in July 2026. His master's project focused on the synthesis of fluorescent BODIPY based linkers for covalent organic cages, in the group of Professor Florian Beuerle at the Universität Tübingen in Baden-Württemberg, Germany. 
+
+In terms of research interests, Ethan is passionate about dynamic covalent chemistry, data analysis, and fluorescence, as well as host-guest chemistry and automation. He also enjoys walking, reading, and playing guitar.
+
 ## Visiting students
 
 <div class="member-card" markdown>
