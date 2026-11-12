@@ -54,10 +54,23 @@ His research interests lie in automation of chemical processes (robots!) as well
 
 </div>
 
+<div class="member-card" markdown>
+
+![Ethan Denis](../assets/people/EJD.jpg){ .member-photo }
+
+### Ethan Denis
+
+*Master of Chemistry (2026)*
+
+Ethan became a member of the Szczypiński group in October 2026, after graduating with an MChem degree from Durham University in July 2026. His master's project focused on the synthesis of fluorescent BODIPY based linkers for covalent organic cages, in the group of Professor Florian Beuerle at the Universität Tübingen in Baden-Württemberg, Germany. 
+
+In terms of research interests, Ethan is passionate about dynamic covalent chemistry, data analysis, and fluorescence, as well as host-guest chemistry and automation. He also enjoys walking, reading, and playing guitar.
+
+</div>
+  
 ## Masters Students
 
 <div class="member-card" markdown>
-
 
 ### Joshua Evett
 
@@ -69,7 +82,6 @@ Aside from his studies, Josh holds a Diploma in Violin Performance and can often
 
 </div>
 
-## Visiting students
 
 <div class="member-card" markdown>
 
@@ -80,6 +92,8 @@ Aside from his studies, Josh holds a Diploma in Violin Performance and can often
 Ryan Thorpe is an incoming 4th-year MChem student at Durham University. Currently, he is conducting research in the Szczypiński group as a summer placement student, funded by The Royal Society. His project focuses on automating the synthesis and analysis of chemical receptors using high-throughput and machine-learning techniques to accelerate chemical discovery. In his spare time, he enjoys playing badminton, going on runs or walks in nature, and weightlifting.
 
 </div>
+
+## Visiting students
 
 <div class="member-card" markdown>
 
