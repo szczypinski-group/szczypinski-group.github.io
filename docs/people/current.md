@@ -66,7 +66,22 @@ Ethan became a member of the Szczypiński group in October 2026, after graduatin
 
 In terms of research interests, Ethan is passionate about dynamic covalent chemistry, data analysis, and fluorescence, as well as host-guest chemistry and automation. He also enjoys walking, reading, and playing guitar.
 
-## Visiting students
+</div>
+  
+## Masters Students
+
+<div class="member-card" markdown>
+
+### Joshua Evett
+
+Josh is an MChem student in his final year at Durham University and is currently completing his Masters project with the Szczypiński group. His work is focussed on automating the process of heteroleptic cage discovery and characterisation, in conjunction with members of the Andrews Group (Durham).
+
+Before joining the group, Josh completed a summer internship with Prof. AnnMarie O’Donoghue, working on N-Heterocyclic Carbene (NHC) organocatalysis in sustainable solvents. This work was funded by the Timpson Opportunities Fund and explored the use of Structured Ternary Fluids as an alternative solvent media for NHC catalysed reactions.
+
+Aside from his studies, Josh holds a Diploma in Violin Performance and can often be found performing with a number of University Orchestral ensembles.
+
+</div>
+
 
 <div class="member-card" markdown>
 
@@ -77,6 +92,8 @@ In terms of research interests, Ethan is passionate about dynamic covalent chemi
 Ryan Thorpe is an incoming 4th-year MChem student at Durham University. Currently, he is conducting research in the Szczypiński group as a summer placement student, funded by The Royal Society. His project focuses on automating the synthesis and analysis of chemical receptors using high-throughput and machine-learning techniques to accelerate chemical discovery. In his spare time, he enjoys playing badminton, going on runs or walks in nature, and weightlifting.
 
 </div>
+
+## Visiting students
 
 <div class="member-card" markdown>
 
