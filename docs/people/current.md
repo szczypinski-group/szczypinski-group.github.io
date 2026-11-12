@@ -54,6 +54,21 @@ His research interests lie in automation of chemical processes (robots!) as well
 
 </div>
 
+## Masters Students
+
+<div class="member-card" markdown>
+
+
+### Joshua Evett
+
+Josh is an MChem student in his final year at Durham University and is currently completing his Masters project with the Szczypiński group. His work is focussed on automating the process of heteroleptic cage discovery and characterisation, in conjunction with members of the Andrews Group (Durham).
+
+Before joining the group, Josh completed a summer internship with Prof. AnnMarie O’Donoghue, working on N-Heterocyclic Carbene (NHC) organocatalysis in sustainable solvents. This work was funded by the Timpson Opportunities Fund and explored the use of Structured Ternary Fluids as an alternative solvent media for NHC catalysed reactions.
+
+Aside from his studies, Josh holds a Diploma in Violin Performance and can often be found performing with a number of University Orchestral ensembles.
+
+</div>
+
 ## Visiting students
 
 <div class="member-card" markdown>
